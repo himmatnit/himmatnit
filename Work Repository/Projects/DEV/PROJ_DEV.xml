@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SunopsisExport>
+<Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="odbi0KaE/uu3JbJ1iMVmdQ==" exportKeySalt="fd41fbd8-0f13-4db5-a172-37dcda7567a9" containsCipherText="false"/>
+<Object class="com.sunopsis.dwg.dbobj.SnpProject">
+		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2024-06-05 14:56:42.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[4ce2203c-ac23-4018-a290-aa35c7238d53]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2024-07-04 18:39:31.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="ProjectCode" type="java.lang.String"><![CDATA[DEV]]></Field>
+	<Field name="ProjectName" type="java.lang.String"><![CDATA[DEV]]></Field>
+	<Field name="PrvVersion" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpFolder]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[First Folder]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[849d7ebb-91ea-435c-896f-e51a7ab0730a]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[ffceb68b2ed1b25da1bb2a2da414d99018a2c28a]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[First_Folder/FOLD_First_Folder.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpVar]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[var_filecheck]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[94cc7f68-4956-44a9-bf01-ae1e7f1e6a41]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Variables/VAR_var_filecheck.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KC]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[CKM Oracle]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[cbc88281-f347-4a62-bb62-dd37d85ea8e6]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Check(CKM)/KM_CKM_Oracle.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KC]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[CKM SQL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[3a91b2af-fad5-4c36-95c6-1eed4a29fb93]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Check(CKM)/KM_CKM_SQL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM File to File (Java)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[611e7e5e-0f29-415b-9b77-25b39e1aaab5]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_File_to_File__Java_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Oracle Control Append]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[097bbff6-a1a8-4878-948a-064048633c5e]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_Control_Append.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Oracle Incremental Update]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[9766093d-40ed-401a-9424-922f47a7ae34]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_Incremental_Update.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Oracle Incremental Update (MERGE)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[bba3d5eb-c5db-44ea-bb32-d84d5de77c4d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_Incremental_Update__MERGE_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Oracle Incremental Update (PL SQL)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[a453863d-383b-4d8a-9186-7877e221d50d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_Incremental_Update__PL_SQL_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Oracle Slowly Changing Dimension]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[a8429e90-07a6-4a81-84ad-e7a1d5223edc]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_Slowly_Changing_Dimension.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Oracle to Oracle Control Append (DBLINK)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[b7295cd0-2ea6-46cb-b91f-dcae523c7de1]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_Oracle_to_Oracle_Control_Append__DBLINK_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM SQL Incremental Update]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[1601a6df-1b6a-431e-a28f-6834d09ee3c7]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_SQL_Incremental_Update.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM SQL to File Append]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[4160eaed-2c98-4cde-abc1-1d3e1646a905]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_SQL_to_File_Append.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM SQL to SQL Control Append]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[257d1fcc-924c-45c7-a29b-67dd42ad3642]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_SQL_to_SQL_Control_Append.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM SQL to SQL Incremental Update]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[473aae3d-64e7-4db7-8a4d-7d2dea86f90d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_SQL_to_SQL_Incremental_Update.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM XML Control Append]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[0dce4f0a-6b47-4c8d-9fff-2a2e8e05207c]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_XML_Control_Append.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM SQL Control Append]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[2ab7c2fd-e5d9-4253-ad23-a2f7ddda43d4]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_SQL_Control_Append.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Copy of IKM SQL to File Append]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[b486ee62-5e58-42b1-aef4-5afd3211d466]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKMCopy_of_IKM_SQL_to_File_Append.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[IKM Teradata to File (TTU)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[4e553ce6-7906-406e-84ab-f9402ccd3564]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKM_Teradata_to_File__TTU_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KI]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Copy of IKM XML Control Append]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[8bb20e6b-3298-41bd-8841-a00f00ba0682]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Integration(IKM)/KM_IKMCopy_of_IKM_XML_Control_Append.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM File to Oracle (EXTERNAL TABLE)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[5fc7bfe8-c70e-4fab-8eee-da429111cc3f]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_File_to_Oracle__EXTERNAL_TABLE_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM File to Oracle (SQLLDR)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[57cf975e-59ba-432f-a5cb-832bcbb25d79]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_File_to_Oracle__SQLLDR_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM File to SQL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[e6c0deac-c0ed-4b07-b6dc-ec50c6e9f7a0]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_File_to_SQL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM Oracle BI to Oracle (DBLINK)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[6686e8c6-ad99-4202-862e-21bbe9680724]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_Oracle_BI_to_Oracle__DBLINK_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM Oracle BI to SQL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[50dc4ebf-5aa4-4f3d-9af6-3a9b02ecd571]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_Oracle_BI_to_SQL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM Oracle to Oracle (datapump)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[6e760543-02b2-412c-b9e7-e6bf519be113]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_Oracle_to_Oracle__datapump_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM Oracle to Oracle (DBLINK)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[50a522e3-7a8a-4a8f-8867-ee5e112be173]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_Oracle_to_Oracle__DBLINK_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM SAP BW to Oracle (SQLLDR)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[f28ea15b-55e3-493f-8061-23906dbe483f]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_SAP_BW_to_Oracle__SQLLDR_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM SQL to Oracle]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[60a74f47-ff45-42b5-ad95-a53286940cbd]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_SQL_to_Oracle.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM SQL to SQL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[a460dda8-67eb-4b10-bd6f-430a3ac3375d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_SQL_to_SQL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM SQL to SQL (JYTHON)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[b1c0b647-02f6-4a70-bcbf-171507c96abb]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_SQL_to_SQL__JYTHON_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM SQL to SQL (row by row)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[becdb7de-d62a-48f5-875b-d6645edcf520]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_SQL_to_SQL__row_by_row_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KL]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[LKM SQL to SQL (SOA XREF)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[8615af0b-d86a-41cc-9ba4-be1bcd6a4859]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Loading(LKM)/KM_LKM_SQL_to_SQL__SOA_XREF_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KR]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[RKM File (FROM EXCEL)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[0feec1ea-837c-48d2-852a-1627df851adc]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Reverse-Engineering(RKM)/KM_RKM_File__FROM_EXCEL_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KR]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[RKM MSSQL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[9682dc2d-f281-4b08-85e8-a133d02fc384]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Reverse-Engineering(RKM)/KM_RKM_MSSQL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KR]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[RKM Oracle]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[bfd66537-9a53-41d0-b1f9-0afc0624ebe4]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Reverse-Engineering(RKM)/KM_RKM_Oracle.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KR]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[RKM SQL (JYTHON)]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[a10b05c9-0f4f-4291-b87d-c263dc6a1f69]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Reverse-Engineering(RKM)/KM_RKM_SQL__JYTHON_.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KR]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[RKM Teradata]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[d97de31f-4d49-4302-b52a-d282d753e20b]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Reverse-Engineering(RKM)/KM_RKM_Teradata.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KS]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[SKM Oracle]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[c73ab8db-ce85-4fda-97dd-0fcd323d2f37]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Service(SKM)/KM_SKM_Oracle.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KS]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[SKM SQL]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[f72b4c18-6286-4bcf-bff5-0babc5084abf]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Service(SKM)/KM_SKM_SQL.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpGrpState]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Priorities]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[79cf2b52-69f0-4baf-86bb-d8142dceea6d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Markers/GRP_STATE_Priorities.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpGrpState]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Progress]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[c2b22994-e778-4d3f-896f-439791e54fc9]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Markers/GRP_STATE_Progress.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpGrpState]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Smileys]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[b08a6be3-f4aa-4ec0-8f49-5d6577313ab0]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4871fe8a1f6e6dd3ba020873355e506e7cc84a2e]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Markers/GRP_STATE_Smileys.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[12.2.1]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.09]]></Field>
+</Object>
+</SunopsisExport>
